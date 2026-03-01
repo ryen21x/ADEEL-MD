@@ -52,7 +52,7 @@
 
 <!-- PAIR CODE SVG (BUTTON) -->
 <p align="center">
-  <a href="https://adeel-md-pair-8865b2192eba.herokuapp.com/" target="_blank">
+  <a href="https://adeel-md-pair-1.onrender.com" target="_blank">
     <img src="./ADEEL/paircode.svg" width="195" alt="PAIR_CODE – Device Session ID">
   </a>
 </p>
@@ -65,15 +65,18 @@
   <img src="./ADEEL/deployment.svg" width="600" alt="ADEEL MD — Deployment Options">
 </p>
 
-<!-- ONLY HEROKU DEPLOY BUTTON (ALL OTHERS REMOVED) -->
-<p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/Adeel-Xtech/ADEEL-MD" target="_blank">
-    <img src="./ADEEL/heroku.svg" width="250" alt="Heroku Deploy"/>
-  </a>
-</p>
+<!-- HEROKU AND VPS BUTTONS (ADDED) -->
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/Adeel-Xtech/ADEEL-MD" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=0000FF"/></a></td>
+      <td><a href="https://adeel-md-vps.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/VPS-GOLDEN-FFD700?style=for-the-badge&logo=virtualbox&logoColor=white&labelColor=000000&color=FFD700"/></a></td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
-  <b>🪸 ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴏɴ ʜᴇʀᴏᴋᴜ ᴘʟᴀᴛғᴏʀᴍ 🪸</b>
+  <b>🪸 ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴏɴ ʜᴇʀᴏᴋᴜ & ᴠᴘs ᴘʟᴀᴛғᴏʀᴍ 🪸</b>
 </p>
 
 <!-- DECORATIVE LINE -->
